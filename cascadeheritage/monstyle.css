@@ -1,0 +1,17 @@
+/*------Title----*/
+h1, h2{
+	color:black;
+}
+h1{
+	font-family: Times;
+}
+/*----paragraphe---*/
+.done p{
+	color:grey;
+	text-decoration: line-through;
+}
+
+/*------Listes----*/
+ul li{
+	list-style-type: none;
+}

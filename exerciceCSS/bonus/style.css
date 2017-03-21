@@ -1,0 +1,59 @@
+body{
+	text-align: :center;
+}
+/*----main----*/
+main{
+	width: 80%;
+	margin:auto;
+}
+
+/*---- title---*/
+h2, h1
+{
+	font-family: Arial "sans-serif";
+}
+
+h1
+{
+	
+	font-size:3.5em;
+}
+
+h2
+{
+	font-size: 1,5em;
+	width: 75%;
+	color: #2c446b;
+	text-align: left;
+	margin-bottom: 0px;
+	margin-left: 75px;
+}
+
+/*----paragraphe----*/
+p {
+	display:inline-block;
+	font-family: Times serif;
+	text-align: justify;
+	width: 20%;
+	padding:10px;
+	margin-top: 0px;
+}
+
+/*-----citation----*/
+.citation
+{
+	font-style: italic;
+	font-weight: lighter;
+	color: #BDBDBD;
+}
+
+/*-----important----*/
+.important
+{
+	display: inline-block;
+	color: #2c446b;
+	font-weight: bolder;
+	font-size: 1.3em;
+	margin:20px 0px;
+	padding:0px 15px;
+}

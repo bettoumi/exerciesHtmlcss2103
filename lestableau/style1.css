@@ -1,0 +1,29 @@
+/*style table1 exrcice1*/
+table , th,  td 
+{
+	border: 1px solid black;
+	padding: 15px 15px;
+} 
+ table caption
+ {
+ 	padding-bottom: 20px;
+ }
+
+table
+{
+	border-collapse: collapse;
+	width:300px;
+	text-align: center;
+	margin: 50px auto;
+}
+
+#table1 th
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+#exercice3 thead th, #exercice3 tbody td
+{
+	padding:30px 30px;
+	text-align: left;	
+}
